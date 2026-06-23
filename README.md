@@ -1,5 +1,3 @@
-# Changi Airport Group Runway DLS Portal
-
 Welcome to our design system documentation! Below you will find the entire content of the documentation separated by the main categories. Use this page to navigate and find what you are looking for!
 
 ## Content
