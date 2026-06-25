@@ -14,3 +14,17 @@
 - Ensure clear selected / unselected states for easy recognition.
 
 - Avoid using when there are too many options (use dropdown or list instead).
+
+# BEHAVIOUR (INTERACTIONS)
+
+  
+
+### Selection
+- Single/multi- select are possible depending on required configuration.
+
+### Trigger
+- Entire card area is clickable.
+
+### Feedback
+- Selected state outlined.
+

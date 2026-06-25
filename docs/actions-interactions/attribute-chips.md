@@ -16,3 +16,17 @@
 - Avoid mixing Attribute Chips with interactive components.
 
 - Use small for mobile and medium for desktop
+
+# BEHAVIOUR (INTERACTIONS)
+
+  
+**Display**  
+- Attribute Chips are static visual labels.  
+- They do not respond to hover, focus, or pressed interactions.  
+- They do not trigger navigation or filtering.  
+  
+**Placement**  
+- Can be displayed individually or in small clusters.  
+- Avoid overcrowding; use 3–5 chips maximum in a single view.  
+- Place consistently across card layouts or information sections.
+

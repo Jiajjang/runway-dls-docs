@@ -11,3 +11,6 @@
 | Capitalisation | Use ALL CAPS Heading only for short phrases such as swimlane titles or promo labels.<br>Avoid All Caps for<br>- Paragraphs<br>- Instructions<br>- Menu items<br>- Error messages |  
 | Typographic Emphasis | Use Bold sparingly to highlight key actions or important terms.<br>
 Do NOT:<br>- Bold entire paragraphs<br>- Mix too many weights in a single block<br>- Use italics for emphasis (support is inconsistent across platforms) |
+
+
+

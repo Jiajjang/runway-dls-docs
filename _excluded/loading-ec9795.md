@@ -10,3 +10,6 @@
 - Avoid placing loaders near edges or corners.
 
 - Use JSON files to configure and control loading states.
+
+
+

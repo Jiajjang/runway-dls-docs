@@ -14,3 +14,17 @@
 - Avoid using toggles for actions (e.g., “Submit”, “Refresh”).
 
 - Place toggle on the right with label on the left for readability.
+
+# BEHAVIOUR (INTERACTIONS)
+
+  
+
+### **State Change**
+- The toggle changes state immediately upon interaction (click or tap).
+- Switching the toggle updates the value between ON and OFF.
+
+### **Animation**
+- The toggle uses a smooth animation when switching states:
+- The thumb moves smoothly across the track.
+- The track color transitions to reflect the active or inactive state.
+
