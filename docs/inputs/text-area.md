@@ -1,5 +1,7 @@
 
-# Enterprise
+# Text Area — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -48,4 +50,3 @@
 - Opens multi-line keyboard on tap.
 - Expands field height dynamically.
 - Ensures tap targets are sufficiently large.
-

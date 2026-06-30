@@ -1,5 +1,7 @@
 
-# Enterprise
+# Dropdown Input — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -53,4 +55,3 @@
 - Field is outlined in red with message such as “Please select an option.
 - Error clears automatically upon valid selection.
 - Disabled state prevents interaction and hides any error.
-

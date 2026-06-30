@@ -1,7 +1,7 @@
 
-# Tables
+# Display & Presentation — Tables
 
-
+**Category:** Components
 
 
 

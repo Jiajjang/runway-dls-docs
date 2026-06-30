@@ -1,5 +1,7 @@
 
-# Enterprise
+# Password — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -57,4 +59,3 @@
 - - Field left empty when required
 - - 1 or more rules are not met
 - Error clears once all rules passes.
-

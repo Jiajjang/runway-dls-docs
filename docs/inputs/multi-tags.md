@@ -1,5 +1,7 @@
 
-# Enterprise
+# Multi-tags — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -44,4 +46,3 @@
 - Invalid tags show individually with error styling.
 - Inline message appears for generic field errors (e.g., “Some tags are not allowed”).
 - Errors disappear after correction.
-

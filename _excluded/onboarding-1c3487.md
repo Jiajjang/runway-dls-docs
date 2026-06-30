@@ -1,7 +1,7 @@
 
-# Onboarding
+# Home — Onboarding
 
-
+**Category:** Documentation Root
 
 
 

@@ -1,7 +1,7 @@
 
-# Full-page Errors
+# Templates — Full-page Errors
 
-
+**Category:** Documentation Root
 
 
 

@@ -1,5 +1,7 @@
 
-# Enterprise
+# Pagination — Enterprise
+
+**Category:** Content Navigations
 
 # USAGE GUIDELINES
 
@@ -127,6 +129,4 @@ Use when:
 
 
 ---
-
-
 

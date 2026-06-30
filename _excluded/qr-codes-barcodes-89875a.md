@@ -1,5 +1,7 @@
 
-# QR Codes & Barcodes
+# Display & Presentation — QR Codes & Barcodes
+
+**Category:** Components
 
 # USAGE GUIDELINES
 
@@ -38,4 +40,3 @@
 - - retrieve a record
 - - trigger an action
 - - identify an item
-

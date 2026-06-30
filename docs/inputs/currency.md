@@ -1,5 +1,7 @@
 
-# Enterprise
+# Currency — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -39,4 +41,3 @@
 ### Accessibility
 - Currency code should be keyboard accessible if interactive
 - Field should support aria-label and be screen reader friendly
-

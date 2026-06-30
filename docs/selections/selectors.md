@@ -1,5 +1,7 @@
 
-# Enterprise
+# Selectors — Enterprise
+
+**Category:** Selections
 
 # USAGE GUIDELINES
 
@@ -27,4 +29,3 @@
 
 ### Feedback
 - Selected state outlined.
-

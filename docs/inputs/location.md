@@ -1,5 +1,7 @@
 
-# Enterprise
+# Location — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -37,4 +39,3 @@
 - Validates based on expected input (e.g. 6-digit postal code).
 - Error messages appear inline.
 - Message clears when valid input is provided.
-

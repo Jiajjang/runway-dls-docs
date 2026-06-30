@@ -1,5 +1,7 @@
 
-# Enterprise
+# Coachmark — Enterprise
+
+**Category:** Actions & Interactions
 
 # USAGE GUIDELINES
 
@@ -55,4 +57,3 @@
 ### Visual Emphasis
 - Background may dim using an overlay to draw focus.
 - Coachmark card remains the highest emphasis layer.
-

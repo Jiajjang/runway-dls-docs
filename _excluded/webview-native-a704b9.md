@@ -1,7 +1,7 @@
 
-# Webview (Native)
+# Platform Integrations — Webview (Native)
 
-
+**Category:** Components
 
 
 

@@ -1,5 +1,7 @@
 
-# Enterprise
+# Date Picker — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -48,4 +50,3 @@
 - - “Please select a valid date.”
 - - “End date cannot be before start date.”
 - Clears error automatically upon valid correction.
-

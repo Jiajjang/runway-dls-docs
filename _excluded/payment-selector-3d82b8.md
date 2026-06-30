@@ -1,7 +1,7 @@
 
-# Payment Selector
+# Selections — Payment Selector
 
-
+**Category:** Components
 
 
 

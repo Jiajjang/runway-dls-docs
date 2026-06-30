@@ -1,5 +1,7 @@
 
-# Enterprise
+# Time Picker — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -40,4 +42,3 @@
 - Disabled or restricted time slots cannot be selected.
 - If business logic invalidates a time (e.g., blocked window),Time Input shows error state (e.g., *“This timing is invalid.”*).
 - Errors are cleared automatically after choosing a valid time.
-

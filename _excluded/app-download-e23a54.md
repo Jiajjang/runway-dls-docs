@@ -1,7 +1,7 @@
 
-# App Download
+# Platform Integrations — App Download
 
-
+**Category:** Components
 
 
 

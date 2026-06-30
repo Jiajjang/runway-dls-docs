@@ -1,5 +1,7 @@
 
-# Enterprise
+# Credit Card — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -33,4 +35,3 @@
 
 ### Credit Card Brand
 - The credit card logo is automatically detected based on the card number prefix, while a default credit card icon is shown as the placeholder.
-

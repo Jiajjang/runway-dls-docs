@@ -1,7 +1,7 @@
 
-# Accordion
+# Content Navigations — Accordion
 
-
+**Category:** Components
 
 
 

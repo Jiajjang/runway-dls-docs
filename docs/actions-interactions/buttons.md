@@ -1,5 +1,7 @@
 
-# Enterprise
+# Buttons — Enterprise
+
+**Category:** Actions & Interactions
 
 # USAGE GUIDELINES
 
@@ -41,4 +43,3 @@
 ### **Swipe Behaviour**
 - Requires deliberate, complete swipe
 - Partial swipe does not trigger action
-

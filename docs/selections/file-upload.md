@@ -1,5 +1,7 @@
 
-# Enterprise
+# File Upload — Enterprise
+
+**Category:** Selections
 
 # USAGE GUIDELINES
 
@@ -32,4 +34,3 @@
 - Progress reflects actual upload status (not simulated).
 - Error messages may be returned by backend.
 - No preview or download support after upload (if not implemented in product).
-

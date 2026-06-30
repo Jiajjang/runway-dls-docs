@@ -1,7 +1,7 @@
 
-# Release Notes
+# Home — Release Notes
 
-
+**Category:** Documentation Root
 
 
 

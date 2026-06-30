@@ -1,7 +1,7 @@
 
-# Modal
+# Actions & Interactions — Modal
 
-
+**Category:** Components
 
 
 

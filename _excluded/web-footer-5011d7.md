@@ -1,7 +1,7 @@
 
-# Web Footer
+# Page Navigations — Web Footer
 
-
+**Category:** Components
 
 
 

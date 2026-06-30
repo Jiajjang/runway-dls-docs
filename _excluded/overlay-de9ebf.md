@@ -1,5 +1,7 @@
 
-# Overlay
+# Actions & Interactions — Overlay
+
+**Category:** Components
 
 # USAGE GUIDELINES
 
@@ -33,4 +35,3 @@
 ### Layering
 - Overlay sits above the base interface but below the active foreground component.
 - Ensure proper layering order so the overlay does not block the foreground element.
-

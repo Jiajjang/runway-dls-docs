@@ -1,5 +1,7 @@
 
-# _Template: Instruction Pack (Component)
+# Components — _Template: Instruction Pack (Component)
+
+**Category:** Documentation Root
 
 # USAGE GUIDELINES
 
@@ -34,4 +36,3 @@
 
 
 ---
-

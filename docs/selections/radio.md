@@ -1,5 +1,7 @@
 
-# Enterprise
+# Radio — Enterprise
+
+**Category:** Selections
 
 # USAGE GUIDELINES
 
@@ -32,4 +34,3 @@
 ### Validation & Error Handling
 - Error appears only at the group level, not per radio item.
 - Error resolves once a valid selection is made.
-

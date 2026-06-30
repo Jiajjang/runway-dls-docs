@@ -1,5 +1,7 @@
 
-# Enterprise
+# Status Chips — Enterprise
+
+**Category:** Actions & Interactions
 
 # USAGE GUIDELINES
 
@@ -43,4 +45,3 @@
 
 
 ---
-

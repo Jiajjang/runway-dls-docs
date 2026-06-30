@@ -1,5 +1,7 @@
 
-# Enterprise
+# Toggle — Enterprise
+
+**Category:** Selections
 
 # USAGE GUIDELINES
 
@@ -27,4 +29,3 @@
 - The toggle uses a smooth animation when switching states:
 - The thumb moves smoothly across the track.
 - The track color transitions to reflect the active or inactive state.
-

@@ -1,5 +1,7 @@
 
-# Enterprise
+# Dropdown Option — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -45,4 +47,3 @@
 - Disabled options are skipped during keyboard navigation.
 - Parent Dropdown Input Field displays error if required selection is missing (“Please select an option”).
 - Errors clear automatically upon valid selection.
-

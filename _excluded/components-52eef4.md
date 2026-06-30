@@ -1,7 +1,7 @@
 
-# COMPONENTS
+# Components — COMPONENTS
 
-
+**Category:** Documentation Root
 
 
 

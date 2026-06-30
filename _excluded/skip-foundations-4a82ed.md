@@ -1,5 +1,5 @@
 
-# Templates — Filters & Sort
+# Foundations — FOUNDATIONS
 
 **Category:** Documentation Root
 

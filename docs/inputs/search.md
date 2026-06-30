@@ -1,5 +1,7 @@
 
-# Enterprise
+# Search — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -45,4 +47,3 @@
 ### Clear Action
 - Tapping the clear icon removes all text.
 - Field remains focused for immediate retry (recommended).
-

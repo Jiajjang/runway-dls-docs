@@ -1,5 +1,7 @@
 
-# Enterprise
+# Attribute Chips — Enterprise
+
+**Category:** Actions & Interactions
 
 # USAGE GUIDELINES
 
@@ -29,4 +31,3 @@
 - Can be displayed individually or in small clusters.  
 - Avoid overcrowding; use 3–5 chips maximum in a single view.  
 - Place consistently across card layouts or information sections.
-

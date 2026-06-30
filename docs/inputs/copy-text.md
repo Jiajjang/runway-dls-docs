@@ -1,5 +1,7 @@
 
-# Enterprise
+# Copy Text — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -32,4 +34,3 @@
 - If copy action fails (e.g., browser restriction or clipboard error), show inline feedback such as “Copy failed. Try again.”
 - Do not modify or remove text after failure.
 - Ensure retry behaviour remains accessible and non-blocking.
-

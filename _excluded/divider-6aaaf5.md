@@ -1,5 +1,7 @@
 
-# Divider
+# Display & Presentation — Divider
+
+**Category:** Components
 
 # USAGE GUIDELINES
 
@@ -14,6 +16,4 @@
 - Follow consistent spacing rules above and below divider across screens.
 
 ---
-
-
 

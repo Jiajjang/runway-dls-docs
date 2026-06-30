@@ -1,5 +1,7 @@
 
-# Enterprise
+# Filter Chips — Enterprise
+
+**Category:** Actions & Interactions
 
 # USAGE GUIDELINES
 
@@ -45,4 +47,3 @@
 
 
 ---
-

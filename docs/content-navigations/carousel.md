@@ -1,5 +1,7 @@
 
-# Enterprise
+# Carousel — Enterprise
+
+**Category:** Content Navigations
 
 # USAGE GUIDELINES
 
@@ -53,4 +55,3 @@
 - Control placement adapts to screen width.
 - Outer/inner alignment rules remain consistent across breakpoints.
 - Images scale proportionally to preserve aspect ratio.
-

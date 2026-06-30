@@ -1,7 +1,7 @@
 
-# Social Media
+# Platform Integrations — Social Media
 
-
+**Category:** Components
 
 
 

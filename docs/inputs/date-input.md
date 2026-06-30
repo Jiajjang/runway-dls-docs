@@ -1,5 +1,7 @@
 
-# Enterprise
+# Date Input — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -39,4 +41,3 @@
 ### Mobile Behaviour
 - Opens native Date Picker where supported.
 - Uses numeric or date-optimized keyboard for manual entry.
-

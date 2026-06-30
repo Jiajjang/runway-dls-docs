@@ -1,5 +1,7 @@
 
-# Enterprise
+# Time Input — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -23,6 +25,8 @@
 - Error messages should be clear and factual (e.g.,*“Please select a valid time.”*).
 # BEHAVIOUR (INTERACTIONS)
 
+  
+
 ### Input Handling
 - Field is non-editable.
 - No typing, cursor, or keyboard input.
@@ -44,4 +48,3 @@
 - - Invalid time is returned.
 - - Selected time violates business rules (e.g., blocked slot, restricted hours).
 - Error clears automatically once a valid time is selected.
-

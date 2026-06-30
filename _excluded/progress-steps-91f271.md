@@ -1,7 +1,7 @@
 
-# Progress Steps
+# Content Navigations — Progress Steps
 
-
+**Category:** Components
 
 
 

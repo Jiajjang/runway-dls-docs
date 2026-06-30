@@ -1,5 +1,7 @@
 
-# Enterprise
+# Email — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -33,4 +35,3 @@
 - Shows inline message for invalid entries (“Please enter a valid email address”).
 - Error clears automatically when the value becomes valid.
 - Supports domain-level validation when necessary (optional custom rules).
-

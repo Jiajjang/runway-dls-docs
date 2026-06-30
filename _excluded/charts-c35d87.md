@@ -1,7 +1,7 @@
 
-# Charts
+# Display & Presentation — Charts
 
-
+**Category:** Components
 
 
 

@@ -1,7 +1,7 @@
 
-# TEMPLATES
+# Templates — TEMPLATES
 
-
+**Category:** Documentation Root
 
 
 

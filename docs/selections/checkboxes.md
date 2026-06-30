@@ -1,5 +1,7 @@
 
-# Enterprise
+# Checkboxes — Enterprise
+
+**Category:** Selections
 
 # USAGE GUIDELINES
 
@@ -38,4 +40,3 @@
 - Error appears when a required checkbox (or group) is not selected.
 - Show inline error message below the checkbox or group.
 - Error clears once a valid selection is made.
-

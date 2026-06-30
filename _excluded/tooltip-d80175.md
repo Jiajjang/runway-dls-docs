@@ -1,5 +1,7 @@
 
-# Tooltip
+# Actions & Interactions — Tooltip
+
+**Category:** Components
 
 # USAGE GUIDELINES
 
@@ -48,4 +50,3 @@
 ### Dismissal
 - Hides when hover ends (desktop).
 - Hides when user taps outside (mobile).
-

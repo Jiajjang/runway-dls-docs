@@ -1,5 +1,7 @@
 
-# Enterprise
+# Text Input Field — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -45,4 +47,3 @@
 - *- “This field is required.”*
 - *- “Please enter a valid value.”*
 - Error clears automatically once input becomes valid.
-

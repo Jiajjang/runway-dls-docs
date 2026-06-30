@@ -1,5 +1,7 @@
 
-# Admin Header
+# Web Header — Admin Header
+
+**Category:** Page Navigations
 
 # USAGE GUIDELINES
 
@@ -46,4 +48,3 @@ Selected and Hover is using the same style
 
 ### **Sticky Behaviour**
 - Header typically remains fixed at the top for admin/management tools.
-

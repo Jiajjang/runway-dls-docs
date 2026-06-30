@@ -1,5 +1,7 @@
 
-# Enterprise
+# Phone Number — Enterprise
+
+**Category:** Inputs
 
 # USAGE GUIDELINES
 
@@ -40,4 +42,3 @@
 - Example messages:
 - - “Please enter a valid mobile number.”
 - - “Include country code if international.”
-

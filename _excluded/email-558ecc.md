@@ -1,7 +1,7 @@
 
-# Email
+# Templates — Email
 
-
+**Category:** Documentation Root
 
 
 
